@@ -4,7 +4,7 @@ Due to the increasing number of social media posts that indicate suicidal risk a
 Paper: An Annotated Dataset for Explainable Interpersonal Risk Factors of Mental Disturbance in Social Media Posts.
 Venue: ACL 2023
 
-Project Lead: Muskan Garg
-Dataset Development: Muskan Garg and Amrith Chadha
+Project Lead: Muskan Garg\\
+Dataset Development: Muskan Garg and Amrith Chadha\\
 Baseline Experiments with Pretrained Transformer based Models: Amirmohammad Shahbandegan and Vijay Mago
 
