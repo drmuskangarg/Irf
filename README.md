@@ -5,6 +5,6 @@ Paper: An Annotated Dataset for Explainable Interpersonal Risk Factors of Mental
 Venue: ACL 2023
 
 Project Lead: Muskan Garg <br>
-Dataset Development: Muskan Garg and Amrith Chadha <br>
+Dataset Development: Muskan Garg and Amrith Chadha <br> 
 Baseline Experiments with Pretrained Transformer based Models: Amirmohammad Shahbandegan and Vijay Mago
 
