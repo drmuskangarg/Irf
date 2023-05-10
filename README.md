@@ -8,6 +8,5 @@ Venue: ACL 2023
 Project Lead: Muskan Garg
 
 Dataset Development: Muskan Garg and Amrith Chadha
-
 Baseline Experiments with Pretrained Transformer based Models: Amirmohammad Shahbandegan and Vijay Mago
 
